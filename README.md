@@ -2,6 +2,7 @@
 BU RISE(practicum) Group L Project
 
 # Research Question:
+
 Can a machine learning program be used to identify individuals having sleepwalking (somnambulism) episodes and those who have normal sleep cycles by monitoring their EEG data during sleep?
 
 # How we plan to carry out our project:
@@ -32,3 +33,10 @@ https://scholarspace.manoa.hawaii.edu/bitstream/10125/64138/0320.pdf (Machine le
 https://www.sciencedirect.com/science/article/pii/S1388245715000681 (EEG current density imaging prior to sleepwalking episodes) (Contains EEG data on sleepwalking)
 https://pubmed.ncbi.nlm.nih.gov/30725708/ (EEG of normal sleep and sleep stages) 
 https://link-springer-com.ezproxy.bu.edu/content/pdf/10.1007%2F978-3-030-30581-9.pdf (this book has helpful information on EEG’s and machine learning) 
+
+## Questions/Thoughts
+- Will sleep EEG data of sleepwalkers differ to that of regular people?
+- How can we acount for different potential factors such as age or gender?
+- How should we make our machine learning algorithm?
+- Is this research project unique?
+
