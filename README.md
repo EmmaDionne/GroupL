@@ -33,10 +33,17 @@ https://scholarspace.manoa.hawaii.edu/bitstream/10125/64138/0320.pdf (Machine le
 https://www.sciencedirect.com/science/article/pii/S1388245715000681 (EEG current density imaging prior to sleepwalking episodes) (Contains EEG data on sleepwalking)
 https://pubmed.ncbi.nlm.nih.gov/30725708/ (EEG of normal sleep and sleep stages) 
 https://link-springer-com.ezproxy.bu.edu/content/pdf/10.1007%2F978-3-030-30581-9.pdf (this book has helpful information on EEG’s and machine learning) 
+https://pubmed.ncbi.nlm.nih.gov/31591021/ (Electroencephalogram abnormalities in patients with NREM parasomnias)
 
-## Questions/Thoughts
+# Questions/Thoughts
+- Is there any specific type of machine learning method that you think would be best for our type of project?
+- There is a very similar study using a machine learning model to diagnose the sleep disorder RBD using EEG datasets that was published earlier this year. How can we differentiate our project and build on their existing study? 
+- Is sleepwalking a feasible sleep disorder to use for the objectives of this project? If not, or should we look at various kinds of parasomnias in general or a different sleep disorder entirely? 
+- There is significant EEG data on sleepwalking episodes in one of the articles. Are we allowed to use their data for our project  even though it is from an already published study?
+- Is there a specific sleep stage we should be monitoring? And should the stage being monitored be the same for the subjects who are undergoing a sleep-walking episode and those who are not?
+- Should we try our model to identify spans of time where a person is sleepwalking or just identify whether or not the person had a sleepwalking episode at all during their EEG reading? (or both?)
+- EEG data is often in the form of graphs. How can we design a program to take in data in this form? Should we first convert the graphs into numerical values, such as amplitudes, periods, etc.?
+- How many sources can we retrieve our data from? Can we pull data from multiple sources? Or do we have to get all the control data from one source and all the sleepwalking data from another source? Or do we have to get all the data of every type from a singular source/database? 
 - Will sleep EEG data of sleepwalkers differ to that of regular people?
 - How can we acount for different potential factors such as age or gender?
-- How should we make our machine learning algorithm?
-- Is this research project unique?
 
