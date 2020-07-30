@@ -9,7 +9,7 @@ BU RISE(practicum) Group L Project
 
 
 
-##Questions/Thoughts
+## Questions/Thoughts
 - Will sleep EEG data of sleepwalkers differ to that of regular people?
 - How can we acount for different potential factors such as age or gender?
 - How should we make our machine learning algorithm?
